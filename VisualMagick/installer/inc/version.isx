@@ -1,0 +1,14 @@
+#ifdef COPYRIGHT
+;
+; Copyright (C) 2003 GraphicsMagick Group
+;
+; This program is covered by multiple licenses, which are described in
+; Copyright.txt. You should have received a copy of Copyright.txt with this
+; package; otherwise see http://www.graphicsmagick.org/www/Copyright.html.
+;
+#endif
+
+#define public MagickPackageName "GraphicsMagick"
+#define public MagickPackageVersion "1.4"
+#define public MagickPackageVersionAddendum ".020130802"
+#define public MagickPackageReleaseDate "snapshot-20130802"
