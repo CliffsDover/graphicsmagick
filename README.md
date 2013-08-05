@@ -10,4 +10,5 @@ Supported architectures: armv7, armv7s, i386( iOS Simulator )
 Build for iOS
 ==============
 cd iOS/
+
 sudo sh ./mkmagick
